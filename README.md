@@ -20,6 +20,6 @@ If you like my work, give it a ⭐ and share it with your friends!
 
 ## 👨‍💻 Technologies 
 
-[![Eclipse](https://custom-icon-badges.demolab.com/badge/-Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white)](https://unity.com/)
+[![Eclipse](https://custom-icon-badges.demolab.com/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse&logoColor=white)](https://unity.com/)
 [![C#](https://custom-icon-badges.demolab.com/badge/-CSHARP-47A248?style=for-the-badge&logo=CSHARP&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![HTML](https://custom-icon-badges.demolab.com/badge/-HTML-218AAB?style=for-the-badge&logo=html&logoColor=white)](https://html.spec.whatwg.org/)
