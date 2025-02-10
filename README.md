@@ -1,5 +1,8 @@
 # General Programs
 
+[![stars](https://custom-icon-badges.demolab.com/github/stars/CompSciReels/General-Programs?logo=star&logoColor=black)](https://github.com/CompSciReels/General-Programs/stargazers "stars")
+[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/CompSciReels/General-Programs?logo=issue)](https://github.com/CompSciReels/General-Programs/issues "issues")
+
 Need a pointless program to kill some time? You're in the right place. 
 
 ## 💬 Questions?
