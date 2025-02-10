@@ -21,5 +21,5 @@ If you like my work, give it a ⭐ and share it with your friends!
 ## 👨‍💻 Technologies 
 
 [![Eclipse](https://custom-icon-badges.demolab.com/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipseide.org/)
-[![Java](https://custom-icon-badges.demolab.com/badge/-Java-lightorange?style=for-the-badge&logo=Java&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://custom-icon-badges.demolab.com/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![HTML](https://custom-icon-badges.demolab.com/badge/-HTML-218AAB?style=for-the-badge&logo=html&logoColor=white)](https://html.spec.whatwg.org/)
